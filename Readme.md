@@ -3,7 +3,7 @@
 alu0101202556
 
 ## About this project.
-<p>This is a test to check the power and the limitations of Unreal Engine 5. I mainly use the landscape and foliage mode to create this level. There is also a litthe house just to check how the lights and reflections work in this engine.</p>
+<p>This is a test to check the power and the limitations of Unreal Engine 5. I mainly use the landscape and foliage mode to create this level. There is also a little house just to check how the lights and reflections work in this engine.</p>
 
  * The player
 
@@ -13,7 +13,7 @@ alu0101202556
  * The landscape
  
 ![Alt Text](GIFs/landscape1.png)
-<p>There are three sections. The first one is the section where the player spawns. In this section we can see a los of green vegetation, tall trees and a road. If the player follows the road he could see how the road divides in two. The second section is where the house is located. In this one there isn't a lot of foliage and is set in a more winter look. Then we have the third section, when the vegetation have a orange color and the trees aren't as tall.</p>
+<p>There are three sections. The first one is the section where the player spawns. In this section we can see a lot of green vegetation, tall trees and a road. If the player follows the road he could see how the road divides in two. The second section is where the house is located. In this one there isn't a lot of foliage and is set in a more winter look. Then we have the third section, when the vegetation have a orange color and the trees aren't as tall.</p>
 <p>With the landscape mode, using the sculpt tool, I put all of the mountains, ramps and the limitations of the map. With the paint tool I created 5 layers of materials, one for the grass, other for the road, the mountain, the snow and the forest floor.</p>
 
 ![Alt Text](GIFs/landscape2.png)
@@ -40,13 +40,19 @@ alu0101202556
 
 ![Alt Text](GIFs/house1.png)
 <p>I used some assets from Bridge to make it more realistic. There is a door that opens when the player approach it, here is the blueprints node to accomplish that.</p>
+
 ![Alt Text](GIFs/house2.png)
+
 ![Alt Text](GIFs/house3.png)
-<p>And this is how the inside looks like! It looks a bit abandoned, there is a table, some chairs, a light, some decorations, and... two strange items. The purpose of one of them is just to check the reflections of the room, while the other one will brighten when the player interacts with it and then the special item will show some hidden signs in the scene that will guide the player to the end </p>
+<p>And this is how the inside looks like! It looks a bit abandoned, there is a table, some chairs, a light, some decorations, and... two strange items. The purpose of one of them is just to check the reflections of the room, while the other one will brighten when the player interacts with it and then the special item will show some hidden signs in the scene that will guide the player to the end.</p>
+
 ![Alt Text](GIFs/house4.png)
+
 ![Alt Text](GIFs/house5.png)
-<p>This is the blueprint who manages how the player can interact with the special objects</p>
+<p>This is the blueprint who manages how the player can interact with the special objects.</p>
+
 ![Alt Text](GIFs/houseSpecial.gif)
+
 ![Alt Text](GIFs/house6.png)
-<p>That's the capsule who will end the game</p>
+<p>That's the capsule who will end the game.</p>
 <p>And this is the presentation of the project. Take a look - [Presentation Landscape Project](https://youtu.be/Chg_hnpTLpM)</p>
